@@ -13,4 +13,7 @@ This will be the folder where WordPress will save its files in.
 4. Run the following command:
 > docker compose up
 
-5. Finish! 🎉
+5. Once everything is up and running you should be able to access the local
+WordPress instance with: http://localhost:8080/ .
+
+7. Have fun! 🎉
