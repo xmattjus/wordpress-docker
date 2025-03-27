@@ -1,10 +1,16 @@
 # wordpress-docker
 
-A docker-compose file to jumpstart your WordPress development. 
+A Compose file to jumpstart your WordPress development!
 
 ### Run
-Go to the directory you have downloaded the file in, open a terminal and write:
+1. Download or clone this repo.
+
+2. OPTIONAL: Copy the docker-compose.yml found in this repo in a new folder.
+This will be the folder where WordPress will save its files in.
+
+3. Open a terminal and go to the location where docker-compose.yml is located.
+
+4. Run the following command:
 > docker compose up
 
-The files will be saved in
-> /var/lib/docker/volumes
+5. Finish! 🎉
